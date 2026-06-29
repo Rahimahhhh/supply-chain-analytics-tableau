@@ -4,13 +4,13 @@
 
 Dataset yang saya gunakan berisi catatan transaksi dari beberapa pemasok, mencakup data produk, rute pengiriman, biaya logistik, dan informasi pelanggan. Dari data mentah ini, saya mencoba menjawab satu pertanyaan utama: **di mana sebetulnya pendapatan dan efisiensi operasional bisa dioptimalkan?**
 
-Proses dimulai dari data cleaning di Excel — menghapus duplikasi, menstandardisasi nama kategori produk yang tidak konsisten, dan memvalidasi kolom biaya yang nilainya ada di luar rentang wajar. Setelah data siap, analisis dan visualisasi dilakukan di Tableau Public.
+Proses dimulai dari data cleaning di Excel menghapus duplikasi, menstandardisasi nama kategori produk yang tidak konsisten, dan memvalidasi kolom biaya yang nilainya ada di luar rentang wajar. Setelah data siap, analisis dan visualisasi dilakukan di Tableau Public.
 
 ## Temuan Utama
 
 **Sisi komersial:**
 - Tiga pemasok teratas menyumbang lebih dari 60% total pendapatan, tapi lead time mereka lebih panjang dibanding pemasok menengah. Ini membuka pertanyaan soal trade-off antara volume dan keandalan pasokan.
-- Segmen pelanggan tertentu menunjukkan frekuensi pembelian tinggi tapi nilai transaksi rendah — pola yang berbeda dari segmen dengan nilai tinggi tapi jarang memesan. Keduanya butuh pendekatan komersial yang berbeda.
+- Segmen pelanggan tertentu menunjukkan frekuensi pembelian tinggi tapi nilai transaksi rendah, pola yang berbeda dari segmen dengan nilai tinggi tapi jarang memesan. Keduanya butuh pendekatan komersial yang berbeda.
 
 **Sisi operasional:**
 - Biaya pengiriman bervariasi signifikan antar rute, tapi tidak selalu berkorelasi dengan jarak. Beberapa rute pendek justru lebih mahal karena pilihan moda transportasi yang kurang efisien.
