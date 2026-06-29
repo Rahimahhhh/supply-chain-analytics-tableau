@@ -27,12 +27,12 @@ https://public.tableau.com/views/LogisticsOperationsDashboard_17827015433220/Log
 ## 📂 Struktur Repositori
 ```text
 Supply-Chain-Analytics/
-├── README.md
+├── dashboard/
+│   ├── Logistics & Operations Dashboard.twbx
+│   └── Supply Chain Executive Dashboard.twbx
 ├── dataset/
 │   └── supply_chain_data.csv
-├── dashboard/
-│   └── Supply Chain Executive Dashboard.twbx
-│   └──Logistics & Operations Dashboard.twbx
-└── images/
-    ├── executive_dashboard.png
-    └── logistics_dashboard.png
+├── images/
+│   ├── executive_dashboard.png
+│   └── logistics_dashboard.png
+└── README.md
