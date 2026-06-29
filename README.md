@@ -1,9 +1,9 @@
 # supply-chain-analytics-tableau
 
-## 📌 Ringkasan Proyek
+## Ringkasan Proyek
 Proyek ini menyajikan dashboard Tableau interaktif untuk menganalisis kinerja rantai pasok (*supply chain*), metrik komersial, dan operasi logistik. Tujuan dari proyek ini adalah memberikan wawasan (*insights*) yang dapat ditindaklanjuti mengenai faktor pendorong pendapatan, kinerja pemasok, dan efisiensi pengiriman guna membantu para pemangku kepentingan dalam membuat keputusan berbasis data.
 
-## 📊 Dashboard
+## Dashboard
 
 ### 1. Ringkasan Eksekutif
 Berfokus pada KPI tingkat tinggi, pendapatan berdasarkan jenis produk, pemasok teratas, dan demografi pelanggan untuk memberikan ringkasan cepat bagi pimpinan perusahaan.
@@ -15,16 +15,16 @@ Berfokus pada metrik operasional seperti jasa pengiriman (*shipping carrier*), m
 
 ![Logistics & Operations](images/logistics_dashboard.png)
 
-## 🔗 Tautan Dashboard
+## Tautan Dashboard
 **[Lihat Dashboard Interaktif di Tableau Public]
-(https://public.tableau.com/shared/P4X326HKZ?:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/LogisticsOperationsDashboard_17827015433220/LogisticsOperations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+((*Executive Overview*)https://public.tableau.com/shared/P4X326HKZ?:display_count=n&:origin=viz_share_link
+(*Logistics & Operations*) https://public.tableau.com/views/LogisticsOperationsDashboard_17827015433220/LogisticsOperations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-## 🛠️ Alat yang Digunakan
+## Alat yang Digunakan
 - **Visualisasi Data & Analitik:** Tableau Public
 - **Persiapan Data:** Microsoft Excel
 
-## 📂 Struktur Repositori
+## Struktur Repositori
 ```text
 Supply-Chain-Analytics/
 ├── dashboard/
