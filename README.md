@@ -31,7 +31,8 @@ Supply-Chain-Analytics/
 ├── dataset/
 │   └── supply_chain_data.csv
 ├── dashboard/
-│   └── Supply Chain Analytics Dashboard.twbx
+│   └── Supply Chain Executive Dashboard.twbx
+│   └──Logistics & Operations Dashboard.twbx
 └── images/
     ├── executive_dashboard.png
     └── logistics_dashboard.png
