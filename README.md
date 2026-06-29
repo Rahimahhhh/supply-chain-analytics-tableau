@@ -32,6 +32,15 @@ Analisis biaya per rute, perbandingan carrier, dan efisiensi moda transportasi u
 
 **[Buka di Tableau Public](https://public.tableau.com/views/LogisticsOperationsDashboard_17827015433220/LogisticsOperations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
+## Insight & Recommendation
+
+| Insight | Recommendation |
+|----------|----------------|
+| Tiga pemasok utama menyumbang lebih dari 60% total pendapatan, namun memiliki lead time yang lebih tinggi dibanding pemasok lain. | Evaluasi penyebab tingginya lead time dan pertimbangkan diversifikasi pemasok untuk mengurangi risiko keterlambatan. |
+| Segmen pelanggan menunjukkan pola pembelian yang berbeda berdasarkan frekuensi dan nilai transaksi. | Terapkan strategi pemasaran yang disesuaikan dengan karakteristik masing-masing segmen pelanggan. |
+| Biaya pengiriman antar rute bervariasi dan tidak selalu dipengaruhi oleh jarak tempuh. | Tinjau kembali moda transportasi dan rute dengan biaya tinggi untuk meningkatkan efisiensi logistik. |
+| Salah satu carrier memiliki ketepatan waktu yang lebih baik dengan selisih biaya yang relatif kecil. | Prioritaskan carrier dengan performa terbaik sebagai dasar evaluasi kerja sama logistik. |
+
 ## Alur Kerja
 
 ```
