@@ -17,7 +17,9 @@ Berfokus pada metrik operasional seperti jasa pengiriman (*shipping carrier*), m
 
 ## Tautan Dashboard
 **[Lihat Dashboard Interaktif di Tableau Public]
-((*Executive Overview*)https://public.tableau.com/shared/P4X326HKZ?:display_count=n&:origin=viz_share_link
+(
+(*Executive Overview*)https://public.tableau.com/shared/P4X326HKZ?:display_count=n&:origin=viz_share_link
+
 (*Logistics & Operations*) https://public.tableau.com/views/LogisticsOperationsDashboard_17827015433220/LogisticsOperations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## Alat yang Digunakan
